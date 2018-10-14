@@ -1,0 +1,26 @@
+Team members: Theodre Ryan, Raj Bhetwal, Augustine Maddox, and Regenal Grant.
+Project problems.
+Project: Product comparison of two Instructional Repository systems to promote to the Saint Martin’s University Library.
+Client: Dean of Library Amy Stewart-Mailhio
+Problems: Gather information about both Systems: Islandora and Dspace
+Resolution: Attempting to contact two universities that are using the system.
+Dspace – PLU
+Islandora – WWU
+
+Problem: Getting ability to manipulate the systems first hand to get personal knowledge of the systems capabilities and ease for users to interact with.
+ Resolution:
+	Islandora – setting up a AWS sight to download a Virtual Machince image. Also use download Drupal to assist. Other option is loggin into Sandbox with username: admin/ password: islandora
+
+ Dspace : access a  DSpace demo instance
+
+Problem: Getting actual requirements to run system
+1.	Server space/ size, actual resource expenditure to run system.
+2.	Any cost for use of system
+3.	Additional software not freeware
+4.	Possible need of purchase of GUI system to interact with software
+5.	Webpage set-up, access, and security
+6.	Gather list of videos to help set up training for the systems
+Resolution: Contact actual owners of software to get a system recommended requirements to maintain systems
+
+Problem:
+ Learn Drupal and MySQL to assist in running systems
