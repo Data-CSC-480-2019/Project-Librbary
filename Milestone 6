@@ -7,11 +7,15 @@ Resolution: Attempting to contact two universities that are using the system.
 Dspace – PLU
 Islandora – WWU
 
+Time: 2 weeks for response and correspondance
+
 Problem: Getting ability to manipulate the systems first hand to get personal knowledge of the systems capabilities and ease for users to interact with.
  Resolution:
 	Islandora – setting up a AWS sight to download a Virtual Machince image. Also use download Drupal to assist. Other option is loggin into Sandbox with username: admin/ password: islandora
 
  Dspace : access a  DSpace demo instance
+ 
+ TIme: 3 weeks to set up and run trials
 
 Problem: Getting actual requirements to run system
 1.	Server space/ size, actual resource expenditure to run system.
@@ -22,5 +26,11 @@ Problem: Getting actual requirements to run system
 6.	Gather list of videos to help set up training for the systems
 Resolution: Contact actual owners of software to get a system recommended requirements to maintain systems
 
+Time: 2 weeks for response and correspondance
+
 Problem:
  Learn Drupal and MySQL to assist in running systems
+ 
+ Response locate free training for Drupal and MySQL
+ 
+ Time: 1 week
